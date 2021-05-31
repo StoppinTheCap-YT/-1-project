@@ -1,10 +1,10 @@
-message-header = field-name ":" [ field-value ]
-       field-name     = token
-       field-value    = *( field-content | LWS )
-       field-content  = <the OCTETs making up the field-value
-                        and consisting of either *TEXT or combinations
-                        of token, separators, and quoted-string>
-                        <!DOCTYPE html>
-
-
-Resources
+<html>
+<head>
+ <title>The Monk Diamond</title>
+</head>
+<body>
+ <p>The Monk Diamond has been discovered in Siberia.<br/>
+    Professor Bairstone and Dr Day were on a fossil-finding expedition.</p>
+ <p>Ernest, Professor Bairstone's dog, found the jewel.</p>
+</body>
+</html>
